@@ -1,0 +1,8 @@
+#carouselExample {
+    height: 100px; /* Modifica la altura según tus necesidades */
+}
+
+.carousel-item img {
+    height: 100px; /* Establece la altura deseada */
+    width: auto; /* Esto asegura que la imagen se ajuste proporcionalmente */
+  }
